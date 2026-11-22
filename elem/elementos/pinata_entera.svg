@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 412.4 387.4">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #6c2c86;
+      }
+
+      .st0, .st1 {
+        opacity: .7;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st5 {
+        fill: #f7a82b;
+      }
+
+      .st6 {
+        fill: #7e4191;
+      }
+
+      .st7 {
+        fill: #c50c69;
+      }
+
+      .st8 {
+        fill: #4cb9b2;
+      }
+
+      .st9 {
+        fill: #f7aa12;
+      }
+
+      .st1 {
+        fill: #702c86;
+      }
+
+      .st10 {
+        fill: #e95096;
+      }
+
+      .st11 {
+        fill: #d94c14;
+      }
+
+      .st12 {
+        fill: #0099b7;
+      }
+
+      .st13 {
+        fill: #098ca3;
+      }
+
+      .st14 {
+        fill: #e62686;
+      }
+
+      .st15 {
+        fill: #4eb9b1;
+      }
+
+      .st16 {
+        fill: #32b9d3;
+      }
+
+      .st17 {
+        fill: #007e95;
+      }
+
+      .st18 {
+        fill: url(#Degradado_sin_nombre_1104);
+      }
+
+      .st19 {
+        fill: url(#Degradado_sin_nombre_1103);
+      }
+
+      .st20 {
+        fill: url(#Degradado_sin_nombre_1102);
+      }
+
+      .st21 {
+        fill: url(#Degradado_sin_nombre_1101);
+      }
+
+      .st22 {
+        fill: url(#Degradado_sin_nombre_1108);
+      }
+
+      .st23 {
+        fill: url(#Degradado_sin_nombre_1107);
+      }
+
+      .st24 {
+        fill: url(#Degradado_sin_nombre_1106);
+      }
+
+      .st25 {
+        fill: url(#Degradado_sin_nombre_1105);
+      }
+
+      .st26 {
+        fill: url(#Degradado_sin_nombre_1109);
+      }
+
+      .st27 {
+        fill: url(#Degradado_sin_nombre_2486);
+      }
+
+      .st28 {
+        fill: url(#Degradado_sin_nombre_2485);
+      }
+
+      .st29 {
+        fill: url(#Degradado_sin_nombre_2484);
+      }
+
+      .st30 {
+        fill: url(#Degradado_sin_nombre_2483);
+      }
+
+      .st31 {
+        fill: url(#Degradado_sin_nombre_2489);
+      }
+
+      .st32 {
+        fill: url(#Degradado_sin_nombre_2488);
+      }
+
+      .st33 {
+        fill: url(#Degradado_sin_nombre_2487);
+      }
+
+      .st34 {
+        fill: url(#Degradado_sin_nombre_2482);
+      }
+
+      .st35 {
+        fill: url(#Degradado_sin_nombre_2481);
+      }
+
+      .st36 {
+        fill: url(#Degradado_sin_nombre_1624);
+      }
+
+      .st37 {
+        fill: url(#Degradado_sin_nombre_1623);
+      }
+
+      .st38 {
+        fill: url(#Degradado_sin_nombre_1622);
+      }
+
+      .st39 {
+        fill: url(#Degradado_sin_nombre_1621);
+      }
+
+      .st40 {
+        fill: url(#Degradado_sin_nombre_1625);
+      }
+
+      .st41 {
+        fill: url(#Degradado_sin_nombre_1626);
+      }
+
+      .st42 {
+        fill: url(#Degradado_sin_nombre_2582);
+      }
+
+      .st43 {
+        fill: url(#Degradado_sin_nombre_2581);
+      }
+
+      .st44 {
+        fill: url(#Degradado_sin_nombre_2588);
+      }
+
+      .st45 {
+        fill: url(#Degradado_sin_nombre_2587);
+      }
+
+      .st46 {
+        fill: url(#Degradado_sin_nombre_2584);
+      }
+
+      .st47 {
+        fill: url(#Degradado_sin_nombre_2586);
+      }
+
+      .st48 {
+        fill: url(#Degradado_sin_nombre_2585);
+      }
+
+      .st49 {
+        fill: url(#Degradado_sin_nombre_2583);
+      }
+
+      .st50 {
+        fill: url(#Degradado_sin_nombre_2654);
+      }
+
+      .st51 {
+        fill: url(#Degradado_sin_nombre_2653);
+      }
+
+      .st52 {
+        fill: url(#Degradado_sin_nombre_2655);
+      }
+
+      .st53 {
+        fill: url(#Degradado_sin_nombre_2652);
+      }
+
+      .st54 {
+        fill: url(#Degradado_sin_nombre_2656);
+      }
+
+      .st55 {
+        fill: url(#Degradado_sin_nombre_2651);
+      }
+
+      .st56 {
+        fill: url(#Degradado_sin_nombre_2657);
+      }
+
+      .st57 {
+        fill: #47b7a6;
+      }
+
+      .st58 {
+        fill: #f7aa1f;
+      }
+
+      .st59 {
+        fill: #ffda05;
+      }
+
+      .st2 {
+        fill: #52bab1;
+        opacity: .5;
+      }
+
+      .st60 {
+        fill: #da6712;
+      }
+
+      .st61 {
+        fill: #30b9d1;
+      }
+
+      .st62 {
+        fill: #ffda01;
+      }
+
+      .st63 {
+        fill: #d86413;
+      }
+
+      .st64 {
+        fill: url(#Degradado_sin_nombre_265);
+      }
+
+      .st65 {
+        fill: url(#Degradado_sin_nombre_258);
+      }
+
+      .st66 {
+        fill: url(#Degradado_sin_nombre_162);
+      }
+
+      .st67 {
+        fill: url(#Degradado_sin_nombre_114);
+      }
+
+      .st68 {
+        fill: url(#Degradado_sin_nombre_110);
+      }
+
+      .st69 {
+        fill: url(#Degradado_sin_nombre_248);
+      }
+
+      .st3 {
+        fill: #f7aa1c;
+        opacity: .9;
+      }
+
+      .st4 {
+        fill: #8b4a96;
+        opacity: .6;
+      }
+
+      .st70 {
+        fill: #33b9d0;
+      }
+
+      .st71 {
+        fill: #bd0c77;
+      }
+
+      .st72 {
+        fill: #01859d;
+      }
+
+      .st73 {
+        fill: #ffdc04;
+      }
+
+      .st74 {
+        fill: #51b9af;
+      }
+
+      .st75 {
+        fill: url(#Degradado_sin_nombre_24814);
+      }
+
+      .st76 {
+        fill: url(#Degradado_sin_nombre_24811);
+      }
+
+      .st77 {
+        fill: url(#Degradado_sin_nombre_24810);
+      }
+
+      .st78 {
+        fill: url(#Degradado_sin_nombre_24813);
+      }
+
+      .st79 {
+        fill: url(#Degradado_sin_nombre_24812);
+      }
+
+      .st80 {
+        fill: url(#Degradado_sin_nombre_24815);
+      }
+
+      .st81 {
+        fill: url(#Degradado_sin_nombre_11010);
+      }
+
+      .st82 {
+        fill: url(#Degradado_sin_nombre_11011);
+      }
+
+      .st83 {
+        fill: url(#Degradado_sin_nombre_11012);
+      }
+
+      .st84 {
+        fill: url(#Degradado_sin_nombre_11014);
+      }
+
+      .st85 {
+        fill: url(#Degradado_sin_nombre_11013);
+      }
+
+      .st86 {
+        fill: #e72b87;
+      }
+
+      .st87 {
+        fill: #4eb9b0;
+      }
+
+      .st88 {
+        fill: #ea5a9a;
+      }
+
+      .st89 {
+        fill: #e72d87;
+      }
+
+      .st90 {
+        fill: #f6a52d;
+      }
+
+      .st91 {
+        fill: #b2116a;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_248" data-name="Degradado sin nombre 248" x1="149" y1="-673.5" x2="149.1" y2="-673" gradientTransform="translate(-77595.9879 48404.8329) rotate(35) scale(241 125)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#35bad3"/>
+      <stop offset="1" stop-color="#00acca"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_258" data-name="Degradado sin nombre 258" x1="141.6" y1="-676.6" x2="141.6" y2="-676.2" gradientTransform="translate(-30546.7578 28984.4252) rotate(35) scale(60 61)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4991c"/>
+      <stop offset=".3" stop-color="#f08819"/>
+      <stop offset="1" stop-color="#ed741b"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_265" data-name="Degradado sin nombre 265" x1="139.9" y1="-675.4" x2="139.9" y2="-674.9" gradientTransform="translate(-35796.6666 38396.8141) rotate(35) scale(53 77)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe424"/>
+      <stop offset="1" stop-color="#ffd901"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_110" data-name="Degradado sin nombre 110" x1="140.1" y1="-674.2" x2="140.2" y2="-673.7" gradientTransform="translate(-45746.2478 51881.8219) rotate(35) scale(56 102)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8408e"/>
+      <stop offset=".3" stop-color="#e72d87"/>
+      <stop offset="1" stop-color="#e62783"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2481" data-name="Degradado sin nombre 248" x1="139.5" y1="-673.6" x2="139.6" y2="-673.1" gradientTransform="translate(-51352.3739 60225.0065) rotate(35) scale(55 117)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_162" data-name="Degradado sin nombre 162" x1="140.8" y1="-673.1" x2="141.3" y2="-672.7" gradientTransform="translate(-59478.863 69257.8678) rotate(35) scale(65 135)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#744292"/>
+      <stop offset="1" stop-color="#5c388c"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_1101" data-name="Degradado sin nombre 110" x1="144.7" y1="-687.6" x2="144.8" y2="-687.1" gradientTransform="translate(-5017.0831 25462.0563) scale(35 37)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2482" data-name="Degradado sin nombre 248" x1="151.8" y1="-677.3" x2="152" y2="-676.8" gradientTransform="translate(78837.3457 48404.8329) rotate(145) scale(241 -125)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_2581" data-name="Degradado sin nombre 258" x1="152.9" y1="-684.4" x2="152.9" y2="-684" gradientTransform="translate(31788.1156 28984.4252) rotate(145) scale(60 -61)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_2651" data-name="Degradado sin nombre 265" x1="152.7" y1="-681.5" x2="152.8" y2="-681" gradientTransform="translate(37038.0244 38396.8141) rotate(145) scale(53 -77)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_1102" data-name="Degradado sin nombre 110" x1="152.2" y1="-678.8" x2="152.4" y2="-678.3" gradientTransform="translate(46987.6056 51881.8219) rotate(145) scale(56 -102)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2483" data-name="Degradado sin nombre 248" x1="151.8" y1="-677.7" x2="151.9" y2="-677.3" gradientTransform="translate(52593.7317 60225.0065) rotate(145) scale(55 -117)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_1621" data-name="Degradado sin nombre 162" x1="151.3" y1="-676.6" x2="151.8" y2="-676.2" gradientTransform="translate(60720.2208 69257.8678) rotate(145) scale(65 -135)" xlink:href="#Degradado_sin_nombre_162"/>
+    <linearGradient id="Degradado_sin_nombre_1103" data-name="Degradado sin nombre 110" x1="168.4" y1="-687.6" x2="168.5" y2="-687.1" gradientTransform="translate(6258.4409 25462.0563) scale(-35 37)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2484" data-name="Degradado sin nombre 248" x1="151" y1="-678.8" x2="151.2" y2="-678.4" gradientTransform="translate(-23646.7823 70575.441) rotate(-9) scale(228 97)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_2582" data-name="Degradado sin nombre 258" x1="149.5" y1="-684.2" x2="149.5" y2="-683.8" gradientTransform="translate(-1609.5473 41296.6434) rotate(-9) scale(54 59)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_2652" data-name="Degradado sin nombre 265" x1="149.1" y1="-680.7" x2="149.1" y2="-680.2" gradientTransform="translate(674.1211 54499.4385) rotate(-9) scale(53 79)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_1104" data-name="Degradado sin nombre 110" x1="148.7" y1="-678.7" x2="148.8" y2="-678.2" gradientTransform="translate(2702.9034 67065.7589) rotate(-9) scale(53 98)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2485" data-name="Degradado sin nombre 248" x1="148.1" y1="-677.5" x2="148.2" y2="-677" gradientTransform="translate(4719.7482 77598.3199) rotate(-9) scale(51 114)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_1622" data-name="Degradado sin nombre 162" x1="148.1" y1="-676.6" x2="148.6" y2="-676.1" gradientTransform="translate(5229.5895 88369.5718) rotate(-9) scale(59 130)" xlink:href="#Degradado_sin_nombre_162"/>
+    <linearGradient id="Degradado_sin_nombre_1105" data-name="Degradado sin nombre 110" x1="144.3" y1="-700.4" x2="144.4" y2="-699.9" gradientTransform="translate(-4025.8307 18800.6455) scale(28 26.6)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2486" data-name="Degradado sin nombre 248" x1="154.6" y1="-677.5" x2="154.8" y2="-677.1" gradientTransform="translate(24889.1401 70575.441) rotate(-171) scale(228 -97)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_2583" data-name="Degradado sin nombre 258" x1="164.7" y1="-682" x2="164.7" y2="-681.6" gradientTransform="translate(2851.905 41296.6434) rotate(-171) scale(54 -59)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_2653" data-name="Degradado sin nombre 265" x1="164.5" y1="-679.1" x2="164.6" y2="-678.6" gradientTransform="translate(568.2368 54499.4385) rotate(-171) scale(53 -79)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_1106" data-name="Degradado sin nombre 110" x1="164.1" y1="-677.4" x2="164.3" y2="-676.9" gradientTransform="translate(-1460.5456 67065.7589) rotate(-171) scale(53 -98)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2487" data-name="Degradado sin nombre 248" x1="164.2" y1="-676.3" x2="164.3" y2="-675.9" gradientTransform="translate(-3477.3903 77598.3199) rotate(-171) scale(51 -114)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_1623" data-name="Degradado sin nombre 162" x1="162" y1="-675.6" x2="162.5" y2="-675.1" gradientTransform="translate(-3987.2317 88369.5718) rotate(-171) scale(59 -130)" xlink:href="#Degradado_sin_nombre_162"/>
+    <linearGradient id="Degradado_sin_nombre_1107" data-name="Degradado sin nombre 110" x1="173.9" y1="-700.4" x2="174.1" y2="-699.9" gradientTransform="translate(5268.1885 18800.6455) scale(-28 26.6)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2488" data-name="Degradado sin nombre 248" x1="153.5" y1="-678.4" x2="153.6" y2="-677.9" gradientTransform="translate(26958.3068 73799.9133) rotate(-48) scale(239 102)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_2584" data-name="Degradado sin nombre 258" x1="159.7" y1="-684.6" x2="159.7" y2="-684.1" gradientTransform="translate(22783.5295 33368.1134) rotate(-48) scale(59 57)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_2654" data-name="Degradado sin nombre 265" x1="161" y1="-680.8" x2="161.1" y2="-680.3" gradientTransform="translate(34382.5186 41514.9407) rotate(-48) scale(48 78)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_1108" data-name="Degradado sin nombre 110" x1="160" y1="-678.9" x2="160.2" y2="-678.5" gradientTransform="translate(42568.907 49446.5057) rotate(-48) scale(51 95)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2489" data-name="Degradado sin nombre 248" x1="160.7" y1="-677.9" x2="160.8" y2="-677.4" gradientTransform="translate(49677.9638 54567.7293) rotate(-48) scale(45 108)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_1624" data-name="Degradado sin nombre 162" x1="160.2" y1="-676.7" x2="160.7" y2="-676.2" gradientTransform="translate(59657.2848 63512.7882) rotate(-48) scale(45 128)" xlink:href="#Degradado_sin_nombre_162"/>
+    <linearGradient id="Degradado_sin_nombre_1109" data-name="Degradado sin nombre 110" x1="143.6" y1="-702.3" x2="143.7" y2="-701.8" gradientTransform="translate(-4670.7252 20647.8589) scale(33 29)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_24810" data-name="Degradado sin nombre 248" x1="155.8" y1="-672.3" x2="155.9" y2="-671.9" gradientTransform="translate(-25716.949 73799.9133) rotate(-132) scale(239 -102)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_2585" data-name="Degradado sin nombre 258" x1="169.1" y1="-673.8" x2="169.1" y2="-673.3" gradientTransform="translate(-21542.1717 33368.1134) rotate(-132) scale(59 -57)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_2655" data-name="Degradado sin nombre 265" x1="172.6" y1="-672.9" x2="172.7" y2="-672.4" gradientTransform="translate(-33141.1607 41514.9407) rotate(-132) scale(48 -78)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_11010" data-name="Degradado sin nombre 110" x1="170.9" y1="-672.4" x2="171.1" y2="-672" gradientTransform="translate(-41327.5492 49446.5057) rotate(-132) scale(51 -95)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_24811" data-name="Degradado sin nombre 248" x1="173" y1="-672.2" x2="173.1" y2="-671.7" gradientTransform="translate(-48436.606 54567.7293) rotate(-132) scale(45 -108)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_1625" data-name="Degradado sin nombre 162" x1="172.5" y1="-671.9" x2="173" y2="-671.4" gradientTransform="translate(-58415.927 63512.7882) rotate(-132) scale(45 -128)" xlink:href="#Degradado_sin_nombre_162"/>
+    <linearGradient id="Degradado_sin_nombre_11011" data-name="Degradado sin nombre 110" x1="168.7" y1="-702.3" x2="168.9" y2="-701.8" gradientTransform="translate(5912.0831 20647.8589) scale(-33 29)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_24812" data-name="Degradado sin nombre 248" x1="148.3" y1="-674.1" x2="148.4" y2="-673.7" gradientTransform="translate(-18032.8274 161309.0956) scale(123 239)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_2586" data-name="Degradado sin nombre 258" x1="145.3" y1="-686.5" x2="145.3" y2="-686.1" gradientTransform="translate(-9383.6294 39412.5537) scale(66 57)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_2656" data-name="Degradado sin nombre 265" x1="146.4" y1="-686.5" x2="146.4" y2="-686" gradientTransform="translate(-11355.9552 38700.031) scale(79 56)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_11012" data-name="Degradado sin nombre 110" x1="147.5" y1="-685.3" x2="147.7" y2="-684.8" gradientTransform="translate(-14845.0703 40671.607) scale(102 59)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_24813" data-name="Degradado sin nombre 248" x1="147.9" y1="-694.5" x2="148" y2="-694" gradientTransform="translate(-16363.8594 25233.5336) scale(112 36)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_1626" data-name="Degradado sin nombre 162" x1="147.9" y1="-695.6" x2="148.4" y2="-695.2" gradientTransform="translate(-16971.575 23877.4803) scale(116 34)" xlink:href="#Degradado_sin_nombre_162"/>
+    <linearGradient id="Degradado_sin_nombre_11013" data-name="Degradado sin nombre 110" x1="138.1" y1="-727.2" x2="138.2" y2="-726.8" gradientTransform="translate(-4073.3674 12685.5589) scale(31 17)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2587" data-name="Degradado sin nombre 258" x1="150.3" y1="-679.1" x2="150.3" y2="-678.7" gradientTransform="translate(-45337.0319 53101.6004) scale(303 78.0941)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_24814" data-name="Degradado sin nombre 248" x1="150.3" y1="-678.3" x2="150.5" y2="-677.8" gradientTransform="translate(-50950.6517 60443.3512) scale(340 89)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_11014" data-name="Degradado sin nombre 110" x1="150.5" y1="-677.3" x2="150.6" y2="-676.9" gradientTransform="translate(-55652.198 71216.7538) scale(371 105)" xlink:href="#Degradado_sin_nombre_110"/>
+    <linearGradient id="Degradado_sin_nombre_2657" data-name="Degradado sin nombre 265" x1="150.5" y1="-677.7" x2="150.6" y2="-677.3" gradientTransform="translate(-55510.4107 70101.3351) scale(370.0675 103.25)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_2588" data-name="Degradado sin nombre 258" x1="150.5" y1="-677.6" x2="150.5" y2="-677.1" gradientTransform="translate(-54590.9456 75219.124) scale(364 110.7856)" xlink:href="#Degradado_sin_nombre_258"/>
+    <linearGradient id="Degradado_sin_nombre_24815" data-name="Degradado sin nombre 248" x1="150.3" y1="-679.2" x2="150.5" y2="-678.7" gradientTransform="translate(-48370.6101 64023.9726) scale(323 94)" xlink:href="#Degradado_sin_nombre_248"/>
+    <linearGradient id="Degradado_sin_nombre_114" data-name="Degradado sin nombre 114" x1="148.2" y1="-684.1" x2="148.7" y2="-683.7" gradientTransform="translate(-18947.9009 32883.8297) scale(129 48)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7b3f90"/>
+      <stop offset="1" stop-color="#7f4091"/>
+    </linearGradient>
+  </defs>
+  <g id="Pinata">
+    <g id="Asa-y-tapa">
+      <path class="st6" d="M196.3,37.3c-6.6-13.2-3.8-30.2,3.3-35.4,6.6-5.2,14.2.9,16,9,2.8,9.4,0,20.3-3.8,27.4l-4.2-1.9c3.8-6.1,5.7-16,3.8-24.5-1.4-5.7-5.2-9-8.5-6.1-5.7,4.2-7.1,18.9-1.9,31.1l-4.7.5Z"/>
+      <path class="st4" d="M196.3,27.9c-2.4-9.4,0-19.3,4.2-24.1-2.4,3.3-3.8,12.7-2.4,21.7l2.4,10.4-2.4.9-1.9-9Z"/>
+      <path class="st57" d="M176.9,35.4h56.6l-5.9,21.9-46,1.2-4.7-23.1h0Z"/>
+      <path class="st2" d="M177.9,35.9h54.7l-.5,2.8h-54.3v-2.8Z"/>
+    </g>
+    <g id="Siete-picos">
+      <g id="Pico-superior-izquierdo">
+        <g id="Pico-superior-izquierdo-papel">
+          <path id="Pico-superior-izquierdo-Cono" class="st69" d="M56.4,34.4l99.1,49.3-30.3,50.8L52,40.7l4.3-6.2h0Z"/>
+          <path id="Pico-superior-izquierdo-Pliegue-del-cono" class="st70" d="M57.3,35.6l45.8,23.4-.5,3.1-46.4-25,1.1-1.6h0Z"/>
+          <path id="Pico-superior-izquierdo-Papel-naranja" class="st65" d="M80.5,44.4l18.1,10.4-16.9,23.3-18.2-16.8,3.6-4.4-2.5-2.9,7.8-9.5,6.1,2,2-2Z"/>
+          <path id="Pico-superior-izquierdo-Luz-naranja" class="st90" d="M80.5,44.4l15.8,8.7-1.1,1.6-15.8-8.7,1.1-1.6Z"/>
+          <path id="Pico-superior-izquierdo-Papel-amarillo" class="st64" d="M96.6,51l16.7,10-21.2,29.5-17.6-15.2,5.6-8.8,6,1.3-4.1-5.7,7.3-8.7,5.6,2.7-.3-2,2.2-3.1h0Z"/>
+          <path id="Pico-superior-izquierdo-Papel-rosa" class="st68" d="M111.9,57.2l19.1,10.5-26.8,40-18.3-17.5,5-6.3,4.3,1.3-4-5,7.3-8.7,6.9,2.5-4.3-7,6.4-4.2,2-.3v-1.7l2.5-3.5h0Z"/>
+          <path id="Pico-superior-izquierdo-Luz-rosa" class="st10" d="M111.9,57.2l18.4,10-2.1,1.4-17.2-9.2.9-2.2h0Z"/>
+          <path id="Pico-superior-izquierdo-Papel-cian" class="st35" d="M129.6,65.5l18.5,9.8-28.6,47.4-20.9-17.8,4.1-5.8,3.7,2-2.4-4,3-4.2,7.2,2.1-4.8-6.3,6.9-9,7.8,2-3.8-6.1,5.2-5,4.2-5.1h0Z"/>
+          <path id="Pico-superior-izquierdo-Anillo-violeta" class="st66" d="M146.8,70.7l17.8,10.8-31.1,56-23.3-18.6,3.1-3.6,3-.2-2.2-2.7,5.3-8.4,6.7,1.8-3.8-6.1,7.7-10.1,6.2,2.6-3.1-6.2,6.9-9,5.9,2.4-2.7-3.6,3.5-5h0Z"/>
+        </g>
+        <g id="Pico-superior-izquierdo-listones">
+          <path id="Pico-superior-izquierdo-Liston-turquesa" class="st74" d="M47.2,36.8c-12.7,7.1-18.4,17-17,30.7,1.4,11.8-3.3,18.4-10.9,24.1l8,9.4c11.3-8.5,14.2-19.3,12.7-32.6-1.9-13.7,0-21.7,11.3-29.3l-4.2-2.4h0Z"/>
+          <path id="Pico-superior-izquierdo-Liston-rosa" class="st89" d="M49.1,37.3c-11.3,10.4-12.7,20.8-8.5,30.7,6.6,15.6,3.8,22.6-3.3,29.7l8.5,9c10.9-10.4,10.9-23.1,6.1-34-5.7-14.2-6.1-24.1,1.4-32.6l-4.2-2.8h0Z"/>
+          <path id="Pico-superior-izquierdo-Liston-amarillo" class="st73" d="M51.9,38.7c-8,10.4-6.6,19.3-.5,29.7,8.5,13.2,9,20.8,4.2,28.3l9.4,5.7c8.5-12.3,4.2-25.5-4.7-36.3-8-9.4-9.9-17-7.1-25.9l-1.4-1.4h0Z"/>
+          <path id="Pico-superior-izquierdo-Nudo" class="st21" d="M42.5,35.4l3.3-4.7,6.1,3.3-3.3-5.7,4.7-3.8c3.2,3.8,5,7.4,5.7,10.9l-5.7,6.6-4.7-1.4-6.1-5.2Z"/>
+        </g>
+      </g>
+      <g id="Pico-superior-derecho">
+        <g id="Pico-superior-derecho-papel">
+          <path id="Pico-superior-derecho-Cono" class="st34" d="M355.5,34.4l-99.1,49.3,30.3,50.8,73.1-93.8-4.3-6.2h0Z"/>
+          <path id="Pico-superior-derecho-Pliegue-del-cono" class="st70" d="M354.6,35.6l-45.8,23.4.5,3.1,46.4-25-1.1-1.6h0Z"/>
+          <path id="Pico-superior-derecho-Papel-naranja" class="st43" d="M331.4,44.4l-18.1,10.4,16.9,23.3,18.2-16.8-3.6-4.4,2.5-2.9-7.8-9.5-6.1,2-2-2Z"/>
+          <path id="Pico-superior-derecho-Luz-naranja" class="st90" d="M331.4,44.4l-15.8,8.7,1.1,1.6,15.8-8.7-1.1-1.6Z"/>
+          <path id="Pico-superior-derecho-Papel-amarillo" class="st55" d="M315.3,51l-16.7,10,21.2,29.5,17.6-15.2-5.6-8.8-6,1.3,4.1-5.7-7.3-8.7-5.6,2.7.3-2-2.2-3.1h0Z"/>
+          <path id="Pico-superior-derecho-Papel-rosa" class="st20" d="M300,57.2l-19.1,10.5,26.8,40,18.3-17.5-5-6.3-4.3,1.3,4-5-7.3-8.7-6.9,2.5,4.3-7-6.4-4.2-2-.3v-1.7l-2.5-3.5h0Z"/>
+          <path id="Pico-superior-derecho-Luz-rosa" class="st10" d="M300,57.2l-18.4,10,2.1,1.4,17.2-9.2-.9-2.2h0Z"/>
+          <path id="Pico-superior-derecho-Papel-cian" class="st30" d="M282.3,65.5l-17.1,8.5,28.6,47.4,19.5-16.6-4.1-5.8-3.7,2,2.4-4-3-4.2-7.2,2.1,4.8-6.3-6.9-9-7.8,2,3.8-6.1-5.2-5-4.2-5.1h0Z"/>
+          <path id="Pico-superior-derecho-Anillo-violeta" class="st39" d="M265.1,70.7l-17.8,10.8,31.1,56,23.3-18.6-3.1-3.6-3-.2,2.2-2.7-5.3-8.4-6.7,1.8,3.8-6.1-7.7-10.1-6.2,2.6,3.1-6.2-6.9-9-5.9,2.4,2.7-3.6-3.5-5h0Z"/>
+        </g>
+        <g id="Pico-superior-derecho-listones">
+          <path id="Pico-superior-derecho-Liston-turquesa" class="st74" d="M364.7,36.8c12.7,7.1,18.4,17,17,30.7-1.4,11.8,3.3,18.4,10.9,24.1l-8,9.4c-11.3-8.5-14.2-19.3-12.7-32.6,1.9-13.7,0-21.7-11.3-29.3l4.2-2.4h0Z"/>
+          <path id="Pico-superior-derecho-Liston-rosa" class="st89" d="M362.8,37.3c11.3,10.4,12.7,20.8,8.5,30.7-6.6,15.6-3.8,22.6,3.3,29.7l-8.5,9c-10.9-10.4-10.9-23.1-6.1-34,5.7-14.2,6.1-24.1-1.4-32.6l4.2-2.8h0Z"/>
+          <path id="Pico-superior-derecho-Liston-amarillo" class="st73" d="M360,38.7c8,10.4,6.6,19.3.5,29.7-8.5,13.2-9,20.8-4.2,28.3l-9.4,5.7c-8.5-12.3-4.2-25.5,4.7-36.3,8-9.4,9.9-17,7.1-25.9l1.4-1.4h0Z"/>
+          <path id="Pico-superior-derecho-Nudo" class="st19" d="M369.4,35.4l-3.3-4.7-6.1,3.3,3.3-5.7-4.7-3.8c-3.2,3.8-5,7.4-5.7,10.9l5.7,6.6,4.7-1.4,6.1-5.2Z"/>
+        </g>
+      </g>
+      <g id="Pico-horizontal-izquierdo">
+        <g id="Pico-horizontal-izquierdo-papel">
+          <path id="Pico-horizontal-izquierdo-Cono" class="st29" d="M20.6,176.1l103.5-31.2,7.6,45.1-109.4-6.1-1.7-7.8h0Z"/>
+          <path id="Pico-horizontal-izquierdo-Pliegue-del-cono" class="st16" d="M22.5,175.8l45.4-12,.3,1.9-45,11.4-.7-1.3h0Z"/>
+          <path id="Pico-horizontal-izquierdo-Papel-naranja" class="st42" d="M43.2,164.9l20.1-6,4.3,27.5-21.6,2.5-.8-5.1-3.9-.3-1.8-11.7,3.6-1.5v-5.3c.1,0,0,0,0,0Z"/>
+          <path id="Pico-horizontal-izquierdo-Luz-naranja" class="st5" d="M43.2,164.9l19.6-6-1.5,2.6-17.8,5.2-.3-1.9h0Z"/>
+          <path id="Pico-horizontal-izquierdo-Papel-amarillo" class="st53" d="M59.5,156.5l20.5-6.6,5.4,36.9-22.5,2.6-1.6-10.2,4.2-3.5h-6.7c0,0-1.9-12-1.9-12l5.8-2.8-2.5-.6-.6-3.7h0Z"/>
+          <path id="Pico-horizontal-izquierdo-Papel-rosa" class="st18" d="M75,148.4l21.9-6.3,7.2,45.7-22.4,3.5-1.9-8.8,5.1-3.7-7.1.2-2.2-11.1,6.1-3.8-7-2.2.9-6.4,2.2-1.3-2-.6-.8-5.1h0Z"/>
+          <path id="Pico-horizontal-izquierdo-Luz-rosa" class="st88" d="M75,148.4l20.1-5.6-1,2.5-18.7,5.4-.4-2.3h0Z"/>
+          <path id="Pico-horizontal-izquierdo-Papel-cian" class="st28" d="M92.3,140.3l18.3-5.3,12.6,52.5-21.9,3.5-3.8-14.7,5.6-3.8-6.9-1.3-1.9-12.1,6.2-2.9-6.5-1.8-1.7-14.1h0Z"/>
+          <path id="Pico-horizontal-izquierdo-Anillo-violeta" class="st38" d="M108.2,132.1l19.3-4.5,12.8,59.6-23.2,4.2-1.1-4.1,2-2.7-4.3-.3-2.9-9.1,7.1-3.5-8.6-2.9-1.6-9.8,5.1-3.7-3.9-.3,2.6-1.8-4.4-.8-.7-10.4,6.7-3-4-.8-.9-6h0Z"/>
+        </g>
+        <g id="Pico-horizontal-izquierdo-listones">
+          <path id="Pico-horizontal-izquierdo-Liston-turquesa" class="st8" d="M13.7,182.6c-8.5,7.1-10.9,17.5-8,25,4.7,13.2,1.4,19.8-5.7,25l9,9c9-8,11.8-17.5,7.1-29.7-3.8-10.4-3.8-19.8.9-27.4l-3.3-1.9Z"/>
+          <path id="Pico-horizontal-izquierdo-Liston-rosa" class="st89" d="M16.5,181.2c-5.7,10.9-4.2,19.8.5,28.8,6.6,11.3,8,18.9.9,27.4l9,7.5c9.4-11.3,8.5-21.7,1.9-33.5-6.1-10.9-9.9-18.9-9-28.3l-3.3-1.9Z"/>
+          <path id="Pico-horizontal-izquierdo-Liston-amarillo" class="st62" d="M18.9,183.1c-1.9,11.3,2.8,19.3,9.9,27.4,8,8.5,9.9,13.7,7.1,21.7l9.4,3.8c6.1-14.2,0-24.5-10.9-33.5-7.1-5.7-11.3-10.4-11.8-17.5l-3.8-1.9Z"/>
+          <path id="Pico-horizontal-izquierdo-Nudo" class="st25" d="M11.8,177l1.9-5.2,9,3.8,1.4,7.1c-2.8,1.9-7.2,2.2-13.2.9l.5-4.7,5.2.5-4.7-2.4Z"/>
+        </g>
+      </g>
+      <g id="Pico-horizontal-derecho">
+        <g id="Pico-horizontal-derecho-papel">
+          <path id="Pico-horizontal-derecho-Cono" class="st27" d="M391.7,176.1l-103.5-31.2-7.6,45.1,109.4-6.1,1.7-7.8h0Z"/>
+          <path id="Pico-horizontal-derecho-Pliegue-del-cono" class="st16" d="M389.9,175.8l-45.4-12-.3,1.9,45,11.4.7-1.3h0Z"/>
+          <path id="Pico-horizontal-derecho-Papel-naranja" class="st49" d="M369.2,164.9l-20.1-6-4.3,27.5,21.6,2.5.8-5.1,3.9-.3,1.8-11.7-3.6-1.5v-5.3c-.1,0,0,0,0,0Z"/>
+          <path id="Pico-horizontal-derecho-Luz-naranja" class="st5" d="M369.2,164.9l-19.6-6,1.5,2.6,17.8,5.2.3-1.9h0Z"/>
+          <path id="Pico-horizontal-derecho-Papel-amarillo" class="st51" d="M352.8,156.5l-20.5-6.6-5.4,36.9,22.5,2.6,1.6-10.2-4.2-3.5h6.7c0,0,1.9-12,1.9-12l-5.8-2.8,2.5-.6.6-3.7h0Z"/>
+          <path id="Pico-horizontal-derecho-Papel-rosa" class="st24" d="M337.4,148.4l-21.9-6.3-7.2,45.7,22.4,3.5,1.9-8.8-5.1-3.7,7.1.2,2.2-11.1-6.1-3.8,7-2.2-.9-6.4-2.2-1.3,2-.6.8-5.1h0Z"/>
+          <path id="Pico-horizontal-derecho-Luz-rosa" class="st88" d="M337.4,148.4l-20.1-5.6,1,2.5,18.7,5.4.4-2.3h0Z"/>
+          <path id="Pico-horizontal-derecho-Papel-cian" class="st33" d="M320,140.3l-18.3-5.3-12.6,52.5,21.9,3.5,3.8-14.7-5.6-3.8,6.9-1.3,1.9-12.1-6.2-2.9,6.5-1.8,1.7-14.1h0Z"/>
+          <path id="Pico-horizontal-derecho-Anillo-violeta" class="st37" d="M304.1,132.1l-19.3-4.5-12.8,59.6,23.2,4.2,1.1-4.1-2-2.7,4.3-.3,2.9-9.1-7.1-3.5,8.6-2.9,1.6-9.8-5.1-3.7,3.9-.3-2.6-1.8,4.4-.8.7-10.4-6.7-3,4-.8.9-6h0Z"/>
+        </g>
+        <g id="Pico-horizontal-derecho-listones">
+          <path id="Pico-horizontal-derecho-Liston-turquesa" class="st8" d="M398.7,182.6c8.5,7.1,10.9,17.5,8,25-4.7,13.2-1.4,19.8,5.7,25l-9,9c-9-8-11.8-17.5-7.1-29.7,3.8-10.4,3.8-19.8-.9-27.4l3.3-1.9Z"/>
+          <path id="Pico-horizontal-derecho-Liston-rosa" class="st89" d="M395.8,181.2c5.7,10.9,4.2,19.8-.5,28.8-6.6,11.3-8,18.9-.9,27.4l-9,7.5c-9.4-11.3-8.5-21.7-1.9-33.5,6.1-10.9,9.9-18.9,9-28.3l3.3-1.9Z"/>
+          <path id="Pico-horizontal-derecho-Liston-amarillo" class="st62" d="M393.5,183.1c1.9,11.3-2.8,19.3-9.9,27.4-8,8.5-9.9,13.7-7.1,21.7l-9.4,3.8c-6.1-14.2,0-24.5,10.9-33.5,7.1-5.7,11.3-10.4,11.8-17.5l3.8-1.9Z"/>
+          <path id="Pico-horizontal-derecho-Nudo" class="st23" d="M400.6,177l-1.9-5.2-9,3.8-1.4,7.1c2.8,1.9,7.2,2.2,13.2.9l-.5-4.7-5.2.5,4.7-2.4Z"/>
+        </g>
+      </g>
+      <g id="Pico-diagonal-izquierdo">
+        <g id="Pico-diagonal-izquierdo-papel">
+          <path id="Pico-diagonal-izquierdo-Cono" class="st32" d="M69.4,285l63-91.2,37.7,30.1-93.4,67-7.3-5.9h0Z"/>
+          <path id="Pico-diagonal-izquierdo-Pliegue-del-cono" class="st12" d="M75.5,288.7l39.3-33.8,1.7,1.6-39,33.5-2.1-1.2h0Z"/>
+          <path id="Pico-diagonal-izquierdo-Papel-naranja" class="st46" d="M83.7,264.2l12.7-18.4,19.7,18.4-17.2,16.9-3.9-4.2-3.2,2.2-8.4-8.3,3.1-4.9-2.8-1.8h0Z"/>
+          <path id="Pico-diagonal-izquierdo-Doblez-naranja" class="st60" d="M93.7,277l2.6-1.5-.2,2.4,2.5,2.2-1,.4-3.9-3.5Z"/>
+          <path id="Pico-diagonal-izquierdo-Papel-amarillo" class="st50" d="M91.7,246.7l11.6-15.6,27.4,24.6-16.9,15.2-8.1-7.3,2.7-5.8-5.9,3-8.1-7.3,3.4-5.2-2.6,1.5-3.5-3.2h0Z"/>
+          <path id="Pico-diagonal-izquierdo-Papel-rosa" class="st22" d="M99.9,231.3l13.2-16.7,33.3,30-15.5,16.5-7.4-6.7,2.7-5.8-6.5,4.3-7.7-7.6,3.6-6.9-7.2,3.1-5-5.1v-2c0,0-3.6-3.2-3.6-3.2h0Z"/>
+          <path id="Pico-diagonal-izquierdo-Papel-cian" class="st31" d="M109.4,214.4l13.2-15.4,37.2,34.1-13.5,15.8-10.2-9.8,2-6.5-6.2,3.3-8.8-7.9,3-6.8-6.5,3-10.2-9.8h0Z"/>
+          <path id="Pico-diagonal-izquierdo-Anillo-violeta" class="st36" d="M118,199.3l11-13.6,44.9,40.4-12.4,13-3.9-3.5.8-3.7-4.8,3.9-7-6.3,2.9-7.5-7.2,3.7-8.8-7.9,4-7.2-7.8,4.4-7.5-8.6,2-5.8-2.9,2.5-3.5-3.8h0Z"/>
+        </g>
+        <g id="Pico-diagonal-izquierdo-listones">
+          <path id="Pico-diagonal-izquierdo-Liston-turquesa" class="st15" d="M66.5,292.5c-9,8-12.7,16.5-9.4,28.3,4.2,9.9,2.4,17.5-5.2,25l8,7.5c9.9-8,11.3-18.4,8-29.7-2.8-9-4.7-19.3,3.3-29.7l-4.7-1.4Z"/>
+          <path id="Pico-diagonal-izquierdo-Liston-rosa" class="st89" d="M69.4,292.1c-6.6,7.5-6.1,17.9-.5,28.3,7.1,13.2,9,19.8,1.9,28.8l9.9,7.5c9-11.8,5.2-23.6-3.3-35.4-6.1-9.4-8-18.9-3.8-26.9l-4.2-2.4Z"/>
+          <path id="Pico-diagonal-izquierdo-Liston-amarillo" class="st62" d="M72.2,294c-3.8,9-.5,19.3,7.5,26.9,8,7.5,11.8,14.6,9.4,23.1l9.9,3.3c4.7-13.7-1.9-23.6-11.8-31.1-8-6.1-11.8-11.8-13.2-20.8l-1.9-1.4Z"/>
+          <path id="Pico-diagonal-izquierdo-Nudo" class="st26" d="M63.2,290.7l4.2-6.6c4.4,1.6,8.2,3.8,11.3,6.6l-4.2,7.1-11.3-7.1Z"/>
+        </g>
+      </g>
+      <g id="Pico-diagonal-derecho">
+        <g id="Pico-diagonal-derecho-papel">
+          <path id="Pico-diagonal-derecho-Cono" class="st77" d="M342.5,285l-63-91.2-37.7,30.1,93.4,67,7.3-5.9h0Z"/>
+          <path id="Pico-diagonal-derecho-Pliegue-del-cono" class="st12" d="M336.4,288.7l-39.3-33.8-1.7,1.6,39,33.5,2.1-1.2h0Z"/>
+          <path id="Pico-diagonal-derecho-Papel-naranja" class="st48" d="M328.2,264.2l-12.7-18.4-19.7,18.4,17.2,16.9,3.9-4.2,3.2,2.2,8.4-8.3-3.1-4.9,2.8-1.8h0Z"/>
+          <path id="Pico-diagonal-derecho-Doblez-naranja" class="st60" d="M318.2,277l-2.6-1.5.2,2.4-2.5,2.2,1,.4,3.9-3.5Z"/>
+          <path id="Pico-diagonal-derecho-Papel-amarillo" class="st52" d="M320.2,246.7l-11.6-15.6-27.4,24.6,16.9,15.2,8.1-7.3-2.7-5.8,5.9,3,8.1-7.3-3.4-5.2,2.6,1.5,3.5-3.2h0Z"/>
+          <path id="Pico-diagonal-derecho-Papel-rosa" class="st81" d="M312,231.3l-13.2-16.7-33.3,30,15.5,16.5,7.4-6.7-2.7-5.8,6.5,4.3,7.7-7.6-3.6-6.9,7.2,3.1,5-5.1v-2c0,0,3.6-3.2,3.6-3.2h0Z"/>
+          <path id="Pico-diagonal-derecho-Papel-cian" class="st76" d="M302.5,214.4l-13.2-15.4-37.2,34.1,13.5,15.8,10.2-9.8-2-6.5,6.2,3.3,8.8-7.9-3-6.8,6.5,3,10.2-9.8h0Z"/>
+          <path id="Pico-diagonal-derecho-Anillo-violeta" class="st40" d="M293.9,199.3l-11-13.6-44.9,40.4,12.4,13,3.9-3.5-.8-3.7,4.8,3.9,7-6.3-2.9-7.5,7.2,3.7,8.8-7.9-4-7.2,7.8,4.4,7.5-8.6-2-5.8,2.9,2.5,3.5-3.8h0Z"/>
+        </g>
+        <g id="Pico-diagonal-derecho-listones">
+          <path id="Pico-diagonal-derecho-Liston-turquesa" class="st15" d="M345.4,292.5c9,8,12.7,16.5,9.4,28.3-4.2,9.9-2.4,17.5,5.2,25l-8,7.5c-9.9-8-11.3-18.4-8-29.7,2.8-9,4.7-19.3-3.3-29.7l4.7-1.4Z"/>
+          <path id="Pico-diagonal-derecho-Liston-rosa" class="st89" d="M342.5,292.1c6.6,7.5,6.1,17.9.5,28.3-7.1,13.2-9,19.8-1.9,28.8l-9.9,7.5c-9-11.8-5.2-23.6,3.3-35.4,6.1-9.4,8-18.9,3.8-26.9l4.2-2.4Z"/>
+          <path id="Pico-diagonal-derecho-Liston-amarillo" class="st62" d="M339.7,294c3.8,9,.5,19.3-7.5,26.9-8,7.5-11.8,14.6-9.4,23.1l-9.9,3.3c-4.7-13.7,1.9-23.6,11.8-31.1,8-6.1,11.8-11.8,13.2-20.8l1.9-1.4Z"/>
+          <path id="Pico-diagonal-derecho-Nudo" class="st82" d="M348.7,290.7l-4.2-6.6c-4.4,1.6-8.2,3.8-11.3,6.6l4.2,7.1,11.3-7.1Z"/>
+        </g>
+      </g>
+      <g id="Pico-inferior">
+        <g id="Pico-inferior-papel">
+          <path id="Pico-inferior-Cono" class="st79" d="M178.3,213.8h58l-20.8,94.4-3.8,18.4h-4.7l-28.8-112.8Z"/>
+          <path id="Pico-inferior-Pliegue-del-cono" class="st61" d="M196.3,271.8l11.8,53.8-1.4-.9-16-55.2,5.7,2.4Z"/>
+          <path id="Pico-inferior-Sombra-del-empalme" class="st72" d="M201,298.7h17.5l-2.4,8.5-2.8,1.4h-9l-1.9-1.4-1.4-8.5Z"/>
+          <path id="Pico-inferior-Papel-naranja" class="st47" d="M193.4,279.3h31.1l-3.3,22.2-3.8.5-.5-3.8-1.9,7.5-10.9.5-1.9-3.8-.9,2.8-1.4-4.2h-2.4l-4.2-21.7Z"/>
+          <path id="Pico-inferior-Doblez-naranja" class="st63" d="M193.4,279.3h31.1l-.5,5.2-3.3-.9-1.9,4.7-5.2-.5-1.9-5.2-2.4,5.7-11.8-.5-1.9-2.4-.5,1.4-1.9-7.5Z"/>
+          <path id="Pico-inferior-Papel-amarillo" class="st54" d="M190.1,259.5h37.3l-1.4,24.5h-5.2l-2.4-3.8-1.4,4.7-3.3.5-2.4-6.1-2.4,6.6h-9.4l-1.4-6.1-1.9,2.8-.9,1.9h-3.3l-1.9-25Z"/>
+          <path id="Pico-inferior-Doblez-amarillo" class="st9" d="M190.6,263.8h36.3v5.7l-5.2.5-2.8-3.8-1.4,3.8-13.2.5-2.4-3.8-2.4,2.8-8,.5-.9-6.1Z"/>
+          <path id="Pico-inferior-Papel-rosa" class="st83" d="M184.5,240.7l48.1.5-2.4,27.4-9-.5-2.8-6.6-2.4,7.1h-11.3l-2.8-7.1-2.8,7.1h-11.8l-2.8-27.8Z"/>
+          <path id="Pico-inferior-Doblez-rosa" class="st71" d="M184.9,247.3h47.2l-.5,4.2-13.2.9-2.4-4.7-2.4,4.7-13.2-.5-1.9-4.7-3.3,4.7h-9.9l-.5-4.7Z"/>
+          <path id="Pico-inferior-Papel-cian" class="st78" d="M181.2,233.1h51.9l.9,17h-15.1l-2.8-7.5-2.4,7.1h-12.7l-2.4-7.1-2.4,7.1-14.2.5-.9-17Z"/>
+          <path id="Pico-inferior-Anillo-violeta" class="st41" d="M180.2,226l53.3.5.9,12.7h-4.7l-1.9,1.9-9,.5-3.3-6.1-2.4,6.6h-11.8l-3.3-6.1-2.4,5.7-8.5-1.4-2.4-2.4-.9,1.9h-4.2l.5-13.7Z"/>
+        </g>
+        <g id="Pico-inferior-listones">
+          <path id="Pico-inferior-Liston-turquesa" class="st87" d="M203.8,330.3c-5.7,8-7.5,14.6-5.7,22.6,3.3,9.4,0,16.5-6.6,22.2l8,8c11.3-9,9-21.2,7.5-29.7-2.4-8-1.9-15.6.9-22.2l-4.2-.9Z"/>
+          <path id="Pico-inferior-Liston-rosa" class="st86" d="M207.6,329.8c-3.8,10.4-1.9,20.8,2.8,28.8,4.2,9.9,2.4,15.1-1.9,21.7l8.5,7.1c9-10.9,6.6-20.8,2.4-29.7-4.7-9.9-9.4-18.4-6.6-27.4l-5.2-.5Z"/>
+          <path id="Pico-inferior-Liston-amarillo" class="st59" d="M211.4,329.8c-1.4,9.4,1.9,17.9,7.5,24.5,6.1,7.5,9.4,13.7,6.1,23.1l9.9,3.8c5.2-13.7-.9-25-11.3-34-6.1-5.7-8-11.3-9.4-17l-2.8-.5Z"/>
+          <path id="Pico-inferior-Nudo" class="st85" d="M204.3,323.7h10.9c1.3,0,1.9.6,1.9,1.9l-.5,4.2c0,.9-.6,1.6-1.9,1.9l-10.4-.5c-1.3,0-1.9-.6-1.9-1.9l.5-3.8c0-.9.5-1.6,1.4-1.9Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="Cuerpo-de-papel">
+      <path id="Silueta-del-cuerpo" class="st14" d="M205.7,64.2c46.7-.9,78.8,29.3,85.9,67,9.4,42-14.6,75.5-41.5,92.5-14.6,9-26.4,12.7-43.9,12.7-36.3-.5-65.1-18.9-79.3-49.1-9.9-19.8-10.9-37.7-6.1-57.1,10.4-41,42.9-66.1,84.9-66.1h0Z"/>
+      <path id="Remate-naranja" class="st45" d="M132.5,102.1c15.5-25.4,42.7-39,72.7-38.5,29.4-1,60.2,13.6,75,38.4-34.4-9.5-119.7-9.3-147.6.1h0Z"/>
+      <path class="st3" d="M147.7,88.7c14.2-11.8,25.9-17.5,35.9-19.3l-7.5,9-8.5,7.5-19.8,2.8Z"/>
+      <path id="Franja-turquesa-superior" class="st75" d="M144.8,86.9l21.3-2.7,4.9-4.9,1,5.4,19.1-1,3.9-6.8,2.5,6.8,18.6-.5,2.9-6.4,4.4,6.8,18.1,1,1.5-5.9,3.9,6.4,20.8,1.6c11.2,9.5,15.9,20.4,20.9,32.6-43.1-8.8-119.5-9.8-164.5,1,5.9-15.7,11.5-26.2,20.8-33.5h0Z"/>
+      <path id="Franja-turquesa-superior-doblez" class="st13" d="M149.9,85.9l17.3-2.4,4.8-4.7.9,5.2,18.8-.9,3.9-6.6,2.4,6.6,18.3-.5,2.9-6.1,4.3,6.6,17.8.9,1.5-5.7,3.9,6.1,15.9,1.9,3.3,2.4-20.2-2.4-1.9-3.8-.5,3.3-21.2-.9-2.9-5.2-1.9,4.7-20.2.5-1.9-4.7-2.4,4.7-20.2,1.4-.9-3.3-3.3,2.8-21.2,2.4,2.9-2.4h0Z"/>
+      <path id="Franja-rosa" class="st84" d="M126.4,114.7l9-1.9,6.1-8.5-.5,8,17-1.9,5.7-9.4,1.4,9,21.7-1.4,4.2-8.5,3.8,8.5h20.3l4.2-9,4.2,9,19.3,1.4,2.4-9.4,4.7,9.4,17.5,1.4.5-8,5.2,8.5,12.8,1.8c4.7,9.9,6.5,20.3,7.5,34-45.8-5.7-126.4-4.7-175,1.4.5-13.2,3.3-23.6,8-34.4Z"/>
+      <path id="Franja-rosa-doblez" class="st7" d="M126.4,114.7l9-1.9,6.1-8.5-.5,8,17-1.9,5.7-9.4,1.4,9,21.7-1.4,4.2-8.5,3.8,8.5h20.3l4.2-9,4.2,9,19.3,1.4,2.4-9.4,4.7,9.4,17.5,1.4.5-8,5.2,8.5,12.9,1.6.9,1.9-15.2-1.6-2.4-5.2-.5,5.2-20.3-1.4-3.3-7.1-.9,7.1-22.2-1.4-2.8-6.6-2.8,6.6-22.6-.5-3.3-5.7-2.4,5.7-24.5,1.4-.9-4.7-3.8,5.2-19.3,1.9v-4.7l-3.3,5.2-10.9,1.9.9-1.9Z"/>
+      <path id="Franja-amarilla" class="st56" d="M118.9,141.6l4.2-.5,3.3-7.5,1.4,6.6,11.3-.9,5.2-9.9,2.4,9.4,18.4-.9,5.2-9.9,2.4,9.4h18.4l4.2-10.4,4.2,10.4h21.2l3.8-9.9,4.2,9.9,22.2.9,2.4-9.9,4.7,10.4,16,.9,2.8-9.9,4.7,10.4,11.3,1.4c1.4,11.8-.9,23.1-4.7,33.5-42.9.5-122.2,1.4-165.1-.9-3.3-11.3-4.7-21.2-4.2-32.6Z"/>
+      <path id="Franja-amarilla-doblez" class="st58" d="M118.9,141.6l4.2-.5,3.3-7.5,1.4,6.6,11.3-.9,5.2-9.9,2.4,9.4,18.4-.9,5.2-9.9,2.4,9.4h18.4l4.2-10.4,4.2,10.4h21.2l3.8-9.9,4.2,9.9,22.2.9,2.4-9.9,4.7,10.4,16,.9,2.8-9.9,4.7,10.4,11.3,1.4v1.9l-12.3-.9-3.3-7.5-1.9,7.1-18.9-1.4-2.8-6.6-1.4,6.1-25-.5-2.8-7.5-2.8,7.5h-23.6l-2.8-7.5-3.3,7.1-20.8.5-1.4-7.1-3.8,7.5-20.8.5-1.4-5.7-3.8,6.1-13.2,1.4-.9-4.7-1.9,5.2-5.2.5v-1.9Z"/>
+      <path id="Franja-naranja" class="st44" d="M119.8,167l8.5.9,3.8-9.4,2.4,9,17,.9,3.8-9.9,2.4,10.4h23.1l4.2-10.9,3.8,11.3h18.4l4.2-10.9,3.8,10.4h19.8l3.3-10.4,3.8,10.4,21.2-.9,2.8-9.9,4.7,9.9,11.3-.9,2.4-9.4,3.8,9.4,3.3-.9c-2.8,16.5-9.4,26.9-17.9,36.3-31.6,9-101.9,10.9-136.4,0-8.5-10.9-14.6-23.6-17.5-35.4Z"/>
+      <path id="Franja-naranja-doblez" class="st11" d="M119.8,167l8.5.9,3.8-9.4,2.4,9,17,.9,3.8-9.9,2.4,10.4h23.1l4.2-10.9,3.8,11.3h18.4l4.2-10.9,3.8,10.4h19.8l3.3-10.4,3.8,10.4,21.2-.9,2.8-9.9,4.7,9.9,11.3-.9,2.4-9.4,3.8,9.4,3.3-.9-.5,2.8-4.2.5-1.9-6.1-1.4,6.6-14.2.9-2.8-8-1.9,8-24.1.9-2.4-7.5-1.9,8-22.6-.5-2.4-7.5-2.8,8-21.2-.5-2.4-8-2.8,8h-25.9l-.9-7.5-2.4,7.1-19.8-.9-1.4-6.1-1.9,6.6-9-.9-.9-2.8Z"/>
+      <path id="Franja-turquesa-inferior" class="st80" d="M130.2,193l8.5,2.4,3.3-8,2.8,9.4,18.4,2.8,3.8-9.4,2.8,10.4,20.3.9,4.2-11.3,3.3,11.3h21.2l3.8-11.3,3.3,10.9,18.9-1.4,3.8-10.9,3.3,9.9,17.5-3.3,3.3-9.4,2.8,8,7.1-2.4c-9.9,17-21.7,26.4-33,32.1l-5.1,2.5-19.9,2h-37.7c0-.1-21.3-3.1-21.3-3.1l-7.1-.9c-11.8-5.7-21.7-17.9-28.3-31.1h0Z"/>
+      <path id="Franja-turquesa-inferior-doblez" class="st17" d="M130.2,193l8.5,2.4,3.3-8,2.8,9.4,18.4,2.8,3.8-9.4,2.8,10.4,20.3.9,4.2-11.3,3.3,11.3h21.2l3.8-11.3,3.3,10.9,18.9-1.4,3.8-10.9,3.3,9.9,17.5-3.3,3.3-9.4,2.8,8,7.1-2.4-1.4,2.8-7.1,1.9-1.4-5.2-1.4,6.6-20.8,3.3-1.9-6.6-2.4,7.5-21.7,1.4-1.9-8-1.9,8-24.5.5-1.9-7.5-2.8,7.1-23.1-.9-1.9-6.6-1.9,6.1-21.2-2.8-1.4-6.1-1.9,4.7-8-1.9-1.9-2.8Z"/>
+      <path id="Remate-rosa" class="st89" d="M154.8,221.8l6.6,1.9,3.8-7.5,3.3,9.4,19.3,1.4,4.2-8,3.8,8.5h20.3l3.8-8,3.8,7.5,20.3-1.9,3.3-9.4,2.8,6.6,7.1-1.9c-13.7,8.5-32.6,16-50.5,16-20.8-.5-38.7-6.6-51.9-14.6Z"/>
+      <path class="st91" d="M154.8,221.8l6.6,1.9,3.8-7.5,3.3,9.4,19.3,1.4,4.2-8,3.8,8.5h20.3l3.8-8,3.8,7.5,20.3-1.9,3.3-9.4,2.8,6.6,7.1-1.9-3.8,2.8-4.2,1.4-1.9-4.7-1.9,7.1-22.6,1.9-2.8-5.7-1.9,6.1h-23.6l-2.4-5.7-2.8,5.2-22.6-1.4-1.9-7.1-2.4,5.2-3.3-1.4-4.2-2.4Z"/>
+    </g>
+    <g id="Corona-violeta">
+      <path class="st67" d="M174.6,46.7l4.7.9,7.1,9,4.7-10.4,7.1,11.3,6.1-11.3,7.1,11.3,7.1-11.3,5.2,10.4,6.1-7.5,5.7-2.4-6.1,22.2h-48.6l-6.1-22.2Z"/>
+      <path class="st0" d="M174.6,46.7l4.7.9,7.1,9-.9,1.9-6.1-7.1,3.3,16.5-1.9.9-6.1-22.2Z"/>
+      <path class="st1" d="M233.1,48.2l2.4-1.4-6.1,22.2h-48.6l1.4-1.9h45.8l5.2-18.9Z"/>
+    </g>
+  </g>
+</svg>

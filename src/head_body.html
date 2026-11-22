@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="theme-color" content="#1e2447">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>FELIZ NAVIDAD Y AÑO NUEVO 2027</title>
+<style>
+@font-face{font-family:"Lobster";src:url(data:font/woff2;base64,__LOBSTER__) format("woff2");font-display:block}
+@font-face{font-family:"Nunito";font-weight:700;src:url(data:font/woff2;base64,__NUNITO7__) format("woff2");font-display:block}
+@font-face{font-family:"Nunito";font-weight:800;src:url(data:font/woff2;base64,__NUNITO8__) format("woff2");font-display:block}
+@font-face{font-family:"Lilita One";src:url(data:font/woff2;base64,__LILITA__) format("woff2");font-display:block}
+:root{--ink:#1c1233;--red:#ff3b4e;--green:#1fc46b;--gold:#ffc928;--pink:#ff4fa8;--blue:#2f8cff}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{width:100%;height:100%;overflow:hidden;background:#1e2447;overscroll-behavior:none;touch-action:none;
+  -webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+body{position:fixed;inset:0;font-family:"Lilita One",system-ui,sans-serif}
+#c{position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:none;opacity:0;transition:opacity .5s}
+body.ready #c{opacity:1}
+
+/* Botón de sonido */
+#mute{position:absolute;top:max(14px,env(safe-area-inset-top));right:max(14px,env(safe-area-inset-right));z-index:5;
+  width:48px;height:48px;border-radius:50%;border:2.5px solid rgba(255,255,255,.85);
+  background:rgba(12,18,70,.55);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
+  display:grid;place-items:center;cursor:pointer;box-shadow:0 4px 0 rgba(0,0,0,.35);transition:transform .15s}
+#mute:active{transform:scale(.9)}
+#mute svg{width:26px;height:26px}
+#mute .off{display:none}
+#mute.muted .on{display:none}
+#mute.muted .off{display:block}
+
+/* Indicación inicial */
+#hint{position:absolute;left:0;top:0;z-index:4;width:44px;height:48px;visibility:hidden;pointer-events:none;
+  filter:drop-shadow(0 3px 5px rgba(5,8,40,.45));will-change:transform}
+#hint.show,#hint.hide{visibility:visible}
+#hint svg{width:100%;height:100%;overflow:visible;transform-origin:50% 100%}
+/* aparece y desaparece con squash and stretch, igual que las frutas */
+#hint.show svg{animation:hintIn .6s cubic-bezier(.3,1.2,.5,1) both}
+#hint.hide svg{animation:hintOut .5s ease-in both}
+@keyframes hintIn{0%{transform:scale(0)}35%{transform:scale(1.28,.68)}55%{transform:translateY(-8px) scale(.8,1.28)}75%{transform:scale(1.1,.92)}100%{transform:none}}
+@keyframes hintOut{0%{transform:none}20%{transform:translateY(4px) scale(1.3,.7)}45%{transform:translateY(-14px) scale(.78,1.32)}65%{transform:translateY(-14px) scale(1.15,.88)}100%{transform:translateY(-14px) scale(0) rotate(14deg)}}
+#hint .hand{animation:tap .9s ease-in-out infinite;transform-origin:150px 279px}
+#hint .ring{fill:none;stroke:#fff;stroke-width:10;transform-origin:101px 10px;animation:ring .9s ease-out infinite}
+@keyframes tap{0%,100%{transform:translateY(-22px)}45%,60%{transform:translateY(0) scale(.97,1.03)}}
+@keyframes ring{0%,40%{transform:scale(.2);opacity:0}50%{opacity:.95}100%{transform:scale(1.5);opacity:0}}
+
+/* Mensaje final */
+#final{position:absolute;inset:0;z-index:6;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:clamp(18px,4vh,34px);visibility:hidden;pointer-events:none}
+#final::before{content:"";position:absolute;inset:0;z-index:-1;opacity:0;transition:opacity .6s;
+  background:radial-gradient(ellipse 85% 65% at 50% 50%,rgba(14,22,78,.92),rgba(14,22,78,.6) 65%,rgba(14,22,78,.2));
+  -webkit-mask-image:linear-gradient(transparent 20%,#000 34%);mask-image:linear-gradient(transparent 20%,#000 34%)}
+#final.show{visibility:visible;pointer-events:auto}
+#final.show::before{opacity:1}
+.msg{text-align:center;max-width:min(92vw,640px);padding:0 6px;text-shadow:0 2px 10px rgba(5,8,40,.45)}
+.msg>div:not(.l3){opacity:0;transform:translateY(18px) scale(.92)}
+#final.show .msg>div:not(.l3){animation:pop .8s cubic-bezier(.3,1.4,.5,1) forwards}
+#final.show .l2{animation-delay:.3s!important}
+#final.show .l4{animation-delay:.6s!important}
+@keyframes pop{to{opacity:1;transform:none}}
+.l3{margin:clamp(10px,2.2vh,20px) 0}
+.title-svg,.words-svg{display:block;height:auto;margin:0 auto;filter:drop-shadow(0 2px 6px rgba(5,8,40,.4))}
+.title-svg{width:min(86vw,620px)}
+.words-svg{width:min(86vw,640px)}
+.words-svg .cm{opacity:0}
+#final.show .words-svg .cm{animation:fade .5s .35s forwards}
+@keyframes fade{to{opacity:1}}
+.l2,.l4{font-family:"Nunito",sans-serif;font-weight:700;font-size:clamp(18px,5vw,28px);line-height:1.3;color:#fff6e0;text-wrap:balance}
+.l2{margin-top:clamp(12px,2.6vh,24px)}
+.l4 b{font-weight:800;font-size:1.3em;color:#ffc928}
+#again{font-family:"Lilita One",sans-serif;font-size:clamp(19px,5vw,26px);color:#fff;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;padding:14px 32px;border-radius:999px;border:3.5px solid #fff;
+  background:linear-gradient(180deg,#ff5d9a,#ff2f6f);box-shadow:0 7px 0 #a3134b,0 14px 28px rgba(0,0,0,.45);
+  text-shadow:0 2px 0 rgba(120,0,40,.5);opacity:0;transform:translateY(20px);transition:transform .12s}
+#final.show #again{animation:pop .6s 1.2s cubic-bezier(.3,1.7,.45,1) forwards,pulse 1.6s 1.9s ease-in-out infinite}
+#again:active{box-shadow:0 2px 0 #a3134b,0 6px 14px rgba(0,0,0,.4);translate:0 5px}
+@keyframes pulse{0%,100%{scale:1}50%{scale:1.05}}
+
+@media (orientation:landscape) and (max-height:520px){
+  .title-svg{width:min(70vw,95vh)}.words-svg{width:min(72vw,100vh)}.l2,.l4{font-size:4.6vh}#final{gap:2vh}
+}
+@media (prefers-reduced-motion:reduce){#again,#hint .hand,#hint .ring{animation-iteration-count:1!important}}
+</style>
+</head>
+<body>
+<canvas id="c" aria-label="Piñata navideña: tócala siete veces para romperla"></canvas>
+
+<button id="mute" aria-label="Silenciar sonido">
+  <svg class="on" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h3l5-4v14l-5-4H4z" fill="#ffc928" stroke="#fff"/><path d="M16 9a4 4 0 0 1 0 6"/><path d="M18.6 6.4a7.6 7.6 0 0 1 0 11.2"/></svg>
+  <svg class="off" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h3l5-4v14l-5-4H4z" fill="#9aa3d9" stroke="#fff"/><path d="M16 9.5l5 5M21 9.5l-5 5" stroke="#ff4fa8"/></svg>
+</button>
+
+<div id="hint" role="img" aria-label="Toca la piñata para romperla">
+  <svg viewBox="0 0 254 279.6"><circle class="ring" cx="101" cy="10" r="38"/>
+    <g class="hand"><path fill="#fff" d="M227.6,104c-9.5,0-17.2,7.7-17.2,17.2v6.3c0,2.5-2.1,4.6-4.6,4.6s-4.6-2.1-4.6-4.6v-12.3c0-9.5-7.7-17.2-17.2-17.2s-17.2,7.7-17.2,17.2v12.3c0,2.5-2.1,4.6-4.6,4.6s-4.6-2.1-4.6-4.6v-16.1c0-9.5-7.7-17.2-17.2-17.2s-17.2,7.7-17.2,17.2v16.1c0,2.5-2.1,4.6-4.6,4.6s-4.6-2.1-4.6-4.6V26.4c0-9.5-7.7-17.2-17.2-17.2s-17.2,7.7-17.2,17.2v144.8s0,0,0,0c0,.3,0,.6,0,.9,0,.1,0,.3-.1.4,0,.2,0,.3-.1.5,0,.2-.2.3-.2.4,0,.1-.1.2-.2.4-.3.5-.8.9-1.3,1.3-.1,0-.2.1-.3.2-.1,0-.3.2-.5.2-.1,0-.3,0-.4.1-.1,0-.3,0-.4.1-.3,0-.5,0-.8,0,0,0,0,0,0,0s0,0,0,0c-.3,0-.5,0-.8,0-.1,0-.3,0-.4-.1-.1,0-.3,0-.4-.1-.2,0-.3-.2-.5-.2-.1,0-.2-.1-.3-.2-.3-.2-.5-.4-.7-.6l-29-29c-8.2-8.2-21.4-8.2-29.6,0s-3.9,5.9-3.9,9.5,1.4,7,3.9,9.5l79.4,79.4c28.5,28.5,72.2,34.8,106.3,15.4,2.8-1.6,5.5-3.3,8-5.1,11.2-8.1,20.2-18.5,26.9-31.2,7.2-13.7,11-29.7,11-46.1v-55.7c0-9.5-7.7-17.2-17.2-17.2Z"/><path fill="#231f20" d="M227.6,94.8c-7.9,0-14.9,3.5-19.8,9-4.3-8.9-13.3-15-23.8-15s-15.7,3.8-20.5,9.8c-4.5-8.1-13.2-13.6-23.1-13.6s-12.6,2.4-17.2,6.4V26.4c0-14.6-11.8-26.4-26.4-26.4s-26.4,11.8-26.4,26.4v133.7l-21.2-21.2c-11.7-11.7-30.9-11.7-42.6,0s-6.6,10-6.6,16,2.4,11.7,6.6,16l79.4,79.4c19.2,19.2,44.7,29.2,70.3,29.2,16.2,0,32.5-4,47.1-12.4,3-1.7,6-3.6,8.8-5.7,12.4-8.9,22.3-20.5,29.6-34.4,7.9-15.1,12.1-32.5,12.1-50.4v-55.7c0-14.6-11.8-26.4-26.4-26.4ZM244.8,176.9c0,16.4-3.8,32.4-11,46.1-6.6,12.6-15.7,23.1-26.9,31.2-2.6,1.8-5.3,3.6-8,5.1-34.1,19.4-77.9,13.1-106.3-15.4L13.1,164.5c-2.5-2.5-3.9-5.9-3.9-9.5s1.4-7,3.9-9.5c8.2-8.2,21.4-8.2,29.6,0l29,29c.2.2.4.4.7.6.1,0,.2.1.3.2.1,0,.3.2.5.2.1,0,.3,0,.4.1.1,0,.3,0,.4.1.3,0,.5,0,.8,0,0,0,0,0,0,0s0,0,0,0c.3,0,.5,0,.8,0,.1,0,.3,0,.4-.1.1,0,.3,0,.4-.1.2,0,.3-.2.5-.2.1,0,.2-.1.3-.2.5-.3.9-.8,1.3-1.3,0-.1.1-.2.2-.4,0-.1.2-.3.2-.4,0-.2,0-.3.1-.5,0-.1,0-.3.1-.4,0-.3,0-.6,0-.9,0,0,0,0,0,0V26.4c0-9.5,7.7-17.2,17.2-17.2s17.2,7.7,17.2,17.2v101c0,2.5,2.1,4.6,4.6,4.6s4.6-2.1,4.6-4.6v-16.1c0-9.5,7.7-17.2,17.2-17.2s17.2,7.7,17.2,17.2v16.1c0,2.5,2.1,4.6,4.6,4.6s4.6-2.1,4.6-4.6v-12.3c0-9.5,7.7-17.2,17.2-17.2s17.2,7.7,17.2,17.2v12.3c0,2.5,2.1,4.6,4.6,4.6s4.6-2.1,4.6-4.6v-6.3c0-9.5,7.7-17.2,17.2-17.2s17.2,7.7,17.2,17.2v55.7Z"/></g></svg>
+</div>
+
+<div id="final" aria-live="polite">
+  <div class="msg">
+    <div class="l1" role="img" aria-label="¡Feliz Navidad!">__TITLE_SVG__</div>
+    <div class="l2">Has recolectado lo más valioso de estas fiestas:</div>
+    <div class="l3" role="img" aria-label="Amor, Alegría, Salud, Abundancia, Amistad">__WORDS_SVG__</div>
+    <div class="l4">¡Que todos estos deseos te acompañen durante el próximo año <b>2027</b>!</div>
+  </div>
+  <button id="again">Romper otra piñata
+  </button>
+</div>
+
