@@ -4,8 +4,11 @@ Página HTML para celular y computadora. Se tocan 7 golpes a la piñata, se romp
 caen 5 frutas que se recolectan y sus deseos forman el letrero final.
 
 ## Archivo final
-- `index.html` — la invitación lista. Es un solo archivo: incluye tipografías,
+- `index.html` — página ligera que se comparte: lleva las etiquetas de vista previa
+  (WhatsApp, iMessage, Messenger) y muestra el juego a pantalla completa.
+- `juego.html` — la invitación completa. Es un solo archivo: incluye tipografías,
   gráficos SVG y audios. Se abre en cualquier navegador.
+- `preview.jpg` y `apple-touch-icon.png` — imagen e ícono para la vista previa.
 
 ## Código fuente
 - `src/head_body.html` — HTML y CSS: botón de sonido, manita de indicación y letrero final.
@@ -17,7 +20,7 @@ caen 5 frutas que se recolectan y sus deseos forman el letrero final.
   - golpes, grietas, piñata rota (golpe 6), estallido (golpe 7) y trozos girando
   - frutas que salen, las 5 recolectables (squash and stretch) y los deseos que vuelan al letrero
   - sonidos generados con Web Audio y los MP3 (canción, porra, jingle)
-- `build.py` — arma `index.html`: incrusta en base64 las tipografías,
+- `build.py` — arma `juego.html`: incrusta en base64 las tipografías,
   los SVG de `elem/elementos/` y los MP3 de `audio/`.
 
 ## Recursos
@@ -33,7 +36,7 @@ Con Python 3, desde esta carpeta:
 
     python3 build.py
 
-Se sobrescribe `index.html`.
+Se sobrescribe `juego.html`.
 
 ## Notas
 - El código usa los `id` de los grupos de cada SVG (por ejemplo `Pinata`, `Asa-y-tapa`,

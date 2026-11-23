@@ -33,4 +33,4 @@ h=h.replace('__TITLE_SVG__',title).replace('__WORDS_SVG__',words)
 svgs=''.join(f'<script type="text/plain" id="svg-{k}">{mini(v)}</script>\n' for k,v in files.items())+f'<script type="text/plain" id="svg-letras">{L}</script>\n'
 aud=''.join(f'<script type="text/plain" id="aud-{k}">{base64.b64encode(open("audio/"+k+".mp3","rb").read()).decode()}</script>\n' for k in ['cancion','porra','jingle'])
 out=h+svgs+aud+'<script>\n'+open('src/game.js').read()+'</script>\n</body>\n</html>\n'
-open('index.html','w').write(out); print(len(out))
+open('juego.html','w').write(out); print(len(out))
